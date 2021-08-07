@@ -1,0 +1,65 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="StyleSheet" href="../css/jpetstore.css" type="text/css" media="screen">
+
+<meta name="generator" content="HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org">
+<title>JPetStore Demo</title>
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
+<meta http-equiv="Cache-Control" content="max-age=0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+</head>
+
+<body>
+
+<div id="Header">
+
+<div id="Logo">
+<div id="LogoContent"><a href="/actions/Catalog.action"><img src="../images/logo-topbar.gif"></a></div>
+</div>
+
+<div id="Menu">
+<div id="MenuContent"><a href="/actions/Cart.action?viewCart="><img align="middle" name="img_cart" src="../images/cart.gif"></a> <img align="middle" src="../images/separator.gif"> 
+	<a href="/actions/Account.action?signonForm=">Sign In</a>
+   <img align="middle" src="../images/separator.gif"> <a href="../help.html">?</a></div>
+</div>
+
+<div id="Search">
+<div id="SearchContent"><form method="post" action="/actions/Catalog.action">
+	<input size="14" name="keyword" type="text">
+	<input name="searchProducts" type="submit" value="Search">
+<div style="display: none;"><input type="hidden" name="_sourcePage" value="Sa3cJga7KkIdJkOxNbAoQpj8DNd2QL846SlQvC8y9Ar50US6h-TIKmZB_xkJlClp_vry7EafvC3YkxREAzSsB34Z7FumZHfYgv46aDwvfuM="><input type="hidden" name="__fp" value="wSpoT8kS7qp4Wpq8J54YJsMpsOkFAXMLtENH55VxkDQ3MfQ5GNkbegBMzgSU9ZIx"></div></form></div>
+</div>
+
+<div id="QuickLinks"><a href="/actions/Catalog.action?viewCategory=&amp;categoryId=FISH"><img src="../images/sm_fish.gif"></a> <img src="../images/separator.gif"> <a href="/actions/Catalog.action?viewCategory=&amp;categoryId=DOGS"><img src="../images/sm_dogs.gif"></a> <img src="../images/separator.gif"> <a href="/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES"><img src="../images/sm_reptiles.gif"></a> <img src="../images/separator.gif"> <a href="/actions/Catalog.action?viewCategory=&amp;categoryId=CATS"><img src="../images/sm_cats.gif"></a> <img src="../images/separator.gif"> <a href="/actions/Catalog.action?viewCategory=&amp;categoryId=BIRDS"><img src="../images/sm_birds.gif"></a></div>
+
+</div>
+
+<div id="Content">
+
+<div id="Catalog"><form method="post" action="/actions/Account.action">
+
+	<p>Please enter your username and password.</p>
+	<p>Username:<input name="username" id="stripes-568835887" type="text"><script type="text/javascript">setTimeout(function(){try{var z=document.getElementById('stripes-568835887');z.focus();z.select();}catch(e){}},1);</script> <br>
+	Password:<input name="password" type="password" value="j2ee"></p>
+	<input name="signon" type="submit" value="Login">
+
+<div style="display: none;"><input type="hidden" name="_sourcePage" value="LGKqfmFBotXXzrS8Wn5CxVT4xCGt_TWujfJrSo7EifiEXrSJOxNvy6iKg9NmSPACY730qidO2m-m6PmXjOXXFRrU7s0NZZ5lKh6jrH3hf00="><input type="hidden" name="__fp" value="8nwyTcKFqQnROAvsLMFLkcm6nBDnD2gXlSuvvRu8bsu5eYhdICPQwckKf4i8uu7a"></div></form> Need a user name and password? <a href="/actions/Account.action?newAccountForm=">Register Now!</a></div>
+
+
+</div>
+
+<div id="Footer">
+
+<div id="PoweredBy">&nbsp;<a href="http://www.mybatis.org">www.mybatis.org</a>
+</div>
+
+<div id="Banner"></div>
+
+</div>
+
+
+
+
+</body></html>
